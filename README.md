@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Beatriz Pereira
 
 - 📚 Atualmente estou Cursando o Terceiro Ano do Técnico em Informática Integrado ao Ensino Médio (IFSP - Campinas)
-- 💻 Além do técnico, estou aprendendo Node.js e React Native
+- 💻 Meu objetivo é atuar como Desenvolvedora Full Stack
 - 📈 Estou a procura de desenvolver minhas habilidades
 - 💼 Busco oportunidade para o meu primeiro emprego
 - 📩 Contato através do E-mail e Linkedin
@@ -15,13 +15,17 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="beatriz-pss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="beatriz-pss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="beatriz-pss-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="beatriz-pss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="beatriz-pss-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="beatriz-pss-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="beatriz-pss-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="beatriz-pss-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="beatriz-pss-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="beatriz-pss-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="beatriz-pss-SQLITE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="beatriz-pss-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="beatriz-pss-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="beatriz-pss-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
  ##
