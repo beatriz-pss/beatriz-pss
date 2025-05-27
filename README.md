@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Beatriz Pereira
 
 - 📚 Formada no Ensino Médio Técnico em Informática Integrado ao Ensino Médio (IFSP - Campinas)
-- 💻 Meu objetivo é atuar como Desenvolvedora Full Stack
-- 📈 Estou a procura de desenvolver minhas habilidades
-- 💼 Busco oportunidade para o meu primeiro emprego
+- 👩‍💻 Graduanda em Licenciatura em Matemática e Ciência da Computação na Unicamp
+- 💻 Meu objetivo é desenvolver minhas habilidades como Desenvolvedora Full Stack
+- 💼 Busco oportunidade para o meu primeiro emprego 
 - 📩 Contato através do E-mail e Linkedin
 - ⭐ Sempre disposta à aprender
 - 😄 Pronomes: ela/dela
