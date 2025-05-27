@@ -5,7 +5,7 @@
 - 💻 Meu objetivo é desenvolver minhas habilidades como Desenvolvedora Full Stack
 - 💼 Busco oportunidade para o meu primeiro emprego 
 - 📩 Contato através do E-mail e Linkedin
-- ⭐ Sempre dispoata à aprender
+- ⭐ Sempre disposta à aprender
 - 😄 Pronomes: ela/dela
 
 <div>
